@@ -1,0 +1,10 @@
+[error]	2024-12-17 09:54:10.295947[Thread 0x000075e61c271c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-17 09:54:11.187874[Thread 0x000075e61c271c40]:09:54:11 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-17 09:54:11.193650[Thread 0x000075e61c271c40]:09:54:11 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-17 09:54:11.197576[Thread 0x000075e61c271c40]:09:54:11 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-17 09:54:11.224531[Thread 0x000075e61c271c40]:09:54:11 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-12-17 09:54:13.205763[Thread 0x000075e61c271c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-17 09:54:13.226410[Thread 0x000075e61c271c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-17 10:20:33.208810[Thread 0x000075e61c271c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-17 10:22:14.444106[Thread 0x000075e61c271c40]:Unable to open the file/home/skye/Downloads/ninetails_kijaidesign_02.stl
+[error]	2024-12-17 10:31:11.269692[Thread 0x000075e61c271c40]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#F66151"
+    ],
+    "filament_cost": [
+        "19.99"
+    ],
+    "filament_settings_id": [
+        "3DJake PETG"
+    ],
+    "filament_vendor": [
+        "3DJake"
+    ],
+    "from": "User",
+    "inherits": "Flashforge Generic PETG",
+    "is_custom_defined": "0",
+    "name": "3DJake PETG",
+    "nozzle_temperature_range_high": [
+        "252"
+    ],
+    "version": "2.2.0.4"
+}
