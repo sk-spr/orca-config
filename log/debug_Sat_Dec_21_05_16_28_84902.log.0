@@ -1,0 +1,16 @@
+[error]	2024-12-21 05:16:30.191698[Thread 0x00007c7e85a64c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 05:16:30.202199[Thread 0x00007c7df05ff6c0]:Unable to open the file/home/skye/Downloads/3DBenchy.stl
+[error]	2024-12-21 05:16:30.202395[Thread 0x00007c7dcffff6c0]:Unable to open the file/home/skye/Downloads/ninetails_kijaidesign_02.stl
+[warning]	2024-12-21 05:16:30.680920[Thread 0x00007c7e85a64c40]:05:16:30 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:16:30.702644[Thread 0x00007c7e85a64c40]:05:16:30 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:16:30.704997[Thread 0x00007c7e85a64c40]:05:16:30 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:16:30.725380[Thread 0x00007c7e85a64c40]:05:16:30 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-12-21 05:16:34.456848[Thread 0x00007c7e85a64c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 05:16:34.521945[Thread 0x00007c7e85a64c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-21 05:16:35.522616[Thread 0x00007c7da97fa6c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Connection timed out after 1000 milliseconds
+[Error 28]
+[error]	2024-12-21 05:16:46.015460[Thread 0x00007c7e85a64c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 05:17:10.987964[Thread 0x00007c7e85a64c40]:Unable to open the file/home/skye/Downloads/G3DP Square Gyro Fidget 3 Rings.stl
+[error]	2024-12-21 05:20:57.878786[Thread 0x00007c7e85a64c40]:load_obj: failed to load mtl_path:/home/skye/Downloads/Bullet Bumpin Sniffer - 4577208/files/Bullet Bumpin Sniffer.mtl
+[error]	2024-12-21 05:27:20.785412[Thread 0x00007c7e85a64c40]:calc_exclude_triangles:Unable to create exclude triangles

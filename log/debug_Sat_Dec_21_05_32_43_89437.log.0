@@ -1,0 +1,50 @@
+[error]	2024-12-21 05:32:44.926638[Thread 0x00007ad8abbbec40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 05:32:44.939249[Thread 0x00007ad8087f86c0]:Unable to open the file/home/skye/Downloads/3DBenchy.stl
+[error]	2024-12-21 05:32:44.939358[Thread 0x00007ad7fdbf86c0]:Unable to open the file/home/skye/Downloads/ninetails_kijaidesign_02.stl
+[error]	2024-12-21 05:32:44.939376[Thread 0x00007ad8abbbec40]:Unable to open the file/home/skye/Downloads/G3DP Square Gyro Fidget 3 Rings.stl
+[warning]	2024-12-21 05:32:45.422318[Thread 0x00007ad8abbbec40]:05:32:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:32:45.424597[Thread 0x00007ad8abbbec40]:05:32:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:32:45.426665[Thread 0x00007ad8abbbec40]:05:32:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 05:32:45.428493[Thread 0x00007ad8abbbec40]:05:32:45 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-12-21 05:32:48.892210[Thread 0x00007ad8abbbec40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 05:32:48.945242[Thread 0x00007ad8abbbec40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-21 05:33:17.307975[Thread 0x00007ad8abbbec40]:Unable to open the file/home/skye/Downloads/wallet/CardWallet.STEP
+[error]	2024-12-21 05:33:26.613994[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:33:39.877374[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:33:41.210696[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:33:48.329502[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:33:56.797069[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:34:04.517827[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:34:05.242092[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:34:05.973199[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:34:08.620448[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:34:47.236732[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:36:40.554301[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:36:40.573072[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:36:43.090270[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:40.524058[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:40.619707[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:40.636634[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:47.746751[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:48.080630[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:50.562687[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:51.179219[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:54.799152[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:55.579155[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:56.241804[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:37:57.954199[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:38:01.615476[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:38:04.333663[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:38:29.293786[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:38:30.241769[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 05:39:04.275988[Thread 0x00007ad8abbbec40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 06:26:34.583295[Thread 0x00007ad7c27fc6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.0.235 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2024-12-21 06:27:30.426901[Thread 0x00007ad7c27fc6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.0.235 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2024-12-21 06:29:52.449824[Thread 0x00007ad7c27fc6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.0.235 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2024-12-21 06:55:07.665600[Thread 0x00007ad8abbbec40]:calc_exclude_triangles:Unable to create exclude triangles

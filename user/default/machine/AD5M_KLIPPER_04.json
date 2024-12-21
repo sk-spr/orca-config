@@ -9,6 +9,7 @@
         "0.32"
     ],
     "name": "AD5M_KLIPPER_04",
+    "print_host": "192.168.0.235:7125",
     "printer_notes": "Klipper Mod ver.",
     "printer_settings_id": "AD5M_KLIPPER_04",
     "version": "2.2.0.4",

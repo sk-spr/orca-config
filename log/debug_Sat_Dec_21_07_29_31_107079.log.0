@@ -1,0 +1,10 @@
+[error]	2024-12-21 07:29:32.423545[Thread 0x0000761c314a4c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 07:29:32.438255[Thread 0x0000761ba45ff6c0]:Unable to open the file/home/skye/Downloads/G3DP Square Gyro Fidget 3 Rings.stl
+[error]	2024-12-21 07:29:32.438287[Thread 0x0000761b83fff6c0]:Unable to open the file/home/skye/Downloads/3DBenchy.stl
+[error]	2024-12-21 07:29:32.439277[Thread 0x0000761b827f96c0]:Unable to open the file/home/skye/Downloads/ninetails_kijaidesign_02.stl
+[error]	2024-12-21 07:29:32.440311[Thread 0x0000761c314a4c40]:Unable to open the file/home/skye/Downloads/wallet/CardWallet.STEP
+[warning]	2024-12-21 07:29:32.991520[Thread 0x0000761c314a4c40]:07:29:32 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 07:29:32.993400[Thread 0x0000761c314a4c40]:07:29:32 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 07:29:32.995060[Thread 0x0000761c314a4c40]:07:29:32 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 07:29:32.996748[Thread 0x0000761c314a4c40]:07:29:32 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-12-21 07:29:37.391691[Thread 0x0000761c314a4c40]:calc_exclude_triangles:Unable to create exclude triangles
