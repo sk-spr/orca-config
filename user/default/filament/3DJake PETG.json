@@ -1,6 +1,21 @@
 {
+    "activate_air_filtration": [
+        "1"
+    ],
+    "additional_cooling_fan_speed": [
+        "60"
+    ],
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
     "default_filament_colour": [
         "#F66151"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "60"
     ],
     "filament_cost": [
         "19.99"
@@ -12,6 +27,9 @@
         "3DJake"
     ],
     "from": "User",
+    "full_fan_speed_layer": [
+        "5"
+    ],
     "inherits": "Flashforge Generic PETG",
     "is_custom_defined": "0",
     "name": "3DJake PETG",

@@ -1,10 +1,10 @@
 {
-    "before_layer_change_gcode": ";TIMELAPSE_TAKE_FRAME\n;BEFORE_LAYER_CHANGE\n;[layer_z]",
+    "before_layer_change_gcode": "TIMELAPSE_TAKE_FRAME\n;BEFORE_LAYER_CHANGE\n;[layer_z]",
     "from": "User",
     "inherits": "Flashforge Adventurer 5M 0.4 Nozzle",
     "is_custom_defined": "0",
     "machine_end_gcode": "END_PRINT",
-    "machine_start_gcode": "START_PRINT BED_TEMP={first_layer_bed_temperature[0]} EXTRUDER_TEMP={first_layer_temperature[0]}",
+    "machine_start_gcode": "START_PRINT BED_TEMP={first_layer_bed_temperature[0]} EXTRUDER_TEMP={first_layer_temperature[0]} FORCE_LEVEL=true",
     "max_layer_height": [
         "0.32"
     ],

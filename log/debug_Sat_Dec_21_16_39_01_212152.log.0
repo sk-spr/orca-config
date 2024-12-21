@@ -1,0 +1,80 @@
+[error]	2024-12-21 16:39:02.345967[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 16:39:02.362695[Thread 0x00007c73f07fc6c0]:Unable to open the file/home/skye/Downloads/3DBenchy.stl
+[error]	2024-12-21 16:39:02.362708[Thread 0x00007c73e47f66c0]:Unable to open the file/home/skye/Downloads/simplify_figure_geofix.stl
+[error]	2024-12-21 16:39:02.363206[Thread 0x00007c73dbfff6c0]:Unable to open the file/home/skye/Downloads/wallet/CardWallet.STEP
+[error]	2024-12-21 16:39:02.363569[Thread 0x00007c73da7f96c0]:Unable to open the file/home/skye/Downloads/G3DP Square Gyro Fidget 3 Rings.stl
+[error]	2024-12-21 16:39:02.363632[Thread 0x00007c73e57fa6c0]:Unable to open the file/home/skye/Downloads/ninetails_kijaidesign_02.stl
+[warning]	2024-12-21 16:39:02.773317[Thread 0x00007c7487f17c40]:04:39:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 16:39:02.775423[Thread 0x00007c7487f17c40]:04:39:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 16:39:02.777389[Thread 0x00007c7487f17c40]:04:39:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-12-21 16:39:02.779224[Thread 0x00007c7487f17c40]:04:39:02 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-12-21 16:39:07.104180[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 16:39:07.139613[Thread 0x00007c7487f17c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-21 16:39:40.457805[Thread 0x00007c7487f17c40]:Unable to open the file/home/skye/Downloads/logitech-c-310-camera-holder-for-flashforge-adventurer-5m-model_files/derzhatel-dlia-kamery-pravyi.stl
+[error]	2024-12-21 16:48:14.110981[Thread 0x00007c73db3fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.111244[Thread 0x00007c73da7f96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.111775[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.173412[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.173409[Thread 0x00007c73da3f86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.173888[Thread 0x00007c73f07fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.174039[Thread 0x00007c73e47f66c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.215282[Thread 0x00007c73daffb6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.215466[Thread 0x00007c73e57fa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.216080[Thread 0x00007c73dabfa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.216426[Thread 0x00007c73f07fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 16:48:14.216657[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.809788[Thread 0x00007c73e4ff86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.809990[Thread 0x00007c73e47f66c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.810458[Thread 0x00007c73dbfff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.864560[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.864574[Thread 0x00007c73da3f86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.865317[Thread 0x00007c73dbfff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.865831[Thread 0x00007c73fc7fe6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.886398[Thread 0x00007c73db3fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.886632[Thread 0x00007c73e4ff86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.887813[Thread 0x00007c73dbfff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.887861[Thread 0x00007c73da3f86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:07:04.888183[Thread 0x00007c73dabfa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:08:43.263812[Thread 0x00007c7487f17c40]:load_obj: failed to load mtl_path:/home/skye/Downloads/Bullet Bumpin Sniffer - 4577208/files/Bullet Bumpin Sniffer.mtl
+[error]	2024-12-21 17:10:22.872713[Thread 0x00007c73da3f86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.873390[Thread 0x00007c73e4bf76c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.873796[Thread 0x00007c73e57fa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.923153[Thread 0x00007c73daffb6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.923685[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.924319[Thread 0x00007c73dabfa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.924536[Thread 0x00007c73e47f66c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.942692[Thread 0x00007c73dbbfe6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.942886[Thread 0x00007c73db7fd6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.943598[Thread 0x00007c73f07fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.944126[Thread 0x00007c73e57fa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 17:10:22.944277[Thread 0x00007c73e53f96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 18:58:05.147534[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 18:58:05.147783[Thread 0x00007c73e57fa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 18:58:05.148585[Thread 0x00007c73dbfff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 18:58:05.148700[Thread 0x00007c73e4bf76c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 18:58:05.148958[Thread 0x00007c73db3fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.608443[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.608474[Thread 0x00007c73e53f96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.608726[Thread 0x00007c73fc7fe6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.609381[Thread 0x00007c73e47f66c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.609532[Thread 0x00007c73da3f86c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:00:07.609548[Thread 0x00007c73da7f96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:01:06.472792[Thread 0x00007c7487f17c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 19:02:47.687502[Thread 0x00007c73da7f96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:02:47.687809[Thread 0x00007c73dabfa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:02:47.687919[Thread 0x00007c73daffb6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:02:47.688171[Thread 0x00007c73e57fa6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:02:47.689127[Thread 0x00007c73f07fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[warning]	2024-12-21 19:03:50.415449[Thread 0x00007c7487f17c40]:Fontlist cache - '/home/skye/.config/OrcaSlicer/cache/fonts.cereal' does not exists.
+[error]	2024-12-21 19:04:00.799771[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 19:04:52.198775[Thread 0x00007c73db7fd6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:04:52.198862[Thread 0x00007c73e4bf76c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:04:52.199130[Thread 0x00007c73f07fc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:04:52.200143[Thread 0x00007c73e47f66c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:04:52.200257[Thread 0x00007c73cdffc6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 19:41:19.675198[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 19:41:40.256122[Thread 0x00007c7487f17c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-21 19:44:31.916215[Thread 0x00007c7487f17c40]:Unable to open the file/home/skye/Downloads/Articulated Water Dragon.stl
+[warning]	2024-12-21 19:47:29.589662[Thread 0x00007c73db7fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2024-12-21 19:49:19.907680[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 19:51:55.972677[Thread 0x00007c7487f17c40]:calc_exclude_triangles:Unable to create exclude triangles
