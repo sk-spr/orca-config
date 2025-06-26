@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @Flashforge AD5M 0.4 Nozzle",
+    "is_custom_defined": "0",
+    "name": "standard_custom_v1",
+    "print_settings_id": "standard_custom_v1",
+    "resolution": "0.005",
+    "version": "2.2.0.4",
+    "wall_generator": "arachne",
+    "wall_sequence": "inner-outer-inner wall"
+}

@@ -1,0 +1,28 @@
+[error]	2025-05-25 12:06:37.759716[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:37.776583[Thread 0x000076f91c7f36c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-05-25 12:06:37.776573[Thread 0x000076f91dff96c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[error]	2025-05-25 12:06:37.778212[Thread 0x000076f91e7fb6c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-05-25 12:06:37.778500[Thread 0x000076f91cbf46c0]:Unable to open the file/home/skye/Downloads/Snake_250_20241218.stl
+[warning]	2025-05-25 12:06:38.166072[Thread 0x000076f9ea6f5cc0]:12:06:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-25 12:06:38.172615[Thread 0x000076f9ea6f5cc0]:12:06:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-25 12:06:38.173764[Thread 0x000076f9ea6f5cc0]:12:06:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-25 12:06:38.224295[Thread 0x000076f9ea6f5cc0]:12:06:38 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-05-25 12:06:40.735268[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-25 12:06:40.771240[Thread 0x000076f9ea6f5cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-25 12:06:48.083472[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.407552[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.438879[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.466853[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.494628[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.520689[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.522204[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.524477[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.550951[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.577029[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.603645[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.633977[Thread 0x000076f9ea6f5cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-25 12:06:48.956225[Thread 0x000076f9ea6f5cc0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-25 12:07:02.807591[Thread 0x000076f93dffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-05-25 12:07:14.708928[Thread 0x000076f9ea6f5cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-25 12:07:39.531874[Thread 0x000076f9ea6f5cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-25 12:07:56.830442[Thread 0x000076f9ea6f5cc0]:tree_sel_change_delayedcan not find page with current selection 

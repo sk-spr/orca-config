@@ -1,0 +1,26 @@
+[error]	2025-06-16 14:11:58.105431[Thread 0x00007fee5c873cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-16 14:11:58.125812[Thread 0x00007fed827f96c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-06-16 14:11:58.125841[Thread 0x00007fed837fd6c0]:Unable to open the file/home/skye/Downloads/Snake_250_20241218.stl
+[error]	2025-06-16 14:11:58.126485[Thread 0x00007fed82ffb6c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-16 14:11:58.126718[Thread 0x00007fed82bfa6c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[warning]	2025-06-16 14:11:58.932828[Thread 0x00007fee5c873cc0]:02:11:58 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:11:58.979241[Thread 0x00007fee5c873cc0]:02:11:58 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:11:58.986121[Thread 0x00007fee5c873cc0]:02:11:58 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:11:59.052944[Thread 0x00007fee5c873cc0]:02:11:59 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-16 14:12:05.259651[Thread 0x00007fee5c873cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-16 14:12:05.341916[Thread 0x00007fee5c873cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-16 14:12:50.938339[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:12:53.818730[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:12:54.626084[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:18.542375[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:20.738562[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:38.692842[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:39.450877[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:47.231536[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:13:59.775688[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:06.683179[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:07.403167[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:35.460922[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:35.957706[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:58.921827[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:15:58.936407[Thread 0x00007fee5c873cc0]:tree_sel_change_delayedcan not find page with current selection 

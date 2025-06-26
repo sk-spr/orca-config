@@ -1,0 +1,4 @@
+[error]	2025-06-18 20:12:40.659884[Thread 0x00007f86819afcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 20:12:40.679350[Thread 0x00007f84b93f66c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[error]	2025-06-18 20:12:40.679493[Thread 0x00007f84baffd6c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-06-18 20:12:40.680757[Thread 0x00007f84bb7ff6c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl

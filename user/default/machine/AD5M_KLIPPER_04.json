@@ -10,8 +10,12 @@
     ],
     "name": "AD5M_KLIPPER_04",
     "print_host": "192.168.0.235:7125",
+    "print_host_webui": "192.168.0.235:4000",
     "printer_notes": "Klipper Mod ver.",
     "printer_settings_id": "AD5M_KLIPPER_04",
+    "retract_lift_below": [
+        "220"
+    ],
     "version": "2.2.0.4",
     "z_hop": [
         "0.55"

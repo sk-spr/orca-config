@@ -1,0 +1,26 @@
+[error]	2025-06-13 20:53:23.713895[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:53:23.724449[Thread 0x000073ec4c6fc6c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-13 20:53:23.725339[Thread 0x000073ec23fff6c0]:Unable to open the file/home/skye/Downloads/Snake_250_20241218.stl
+[error]	2025-06-13 20:53:23.725583[Thread 0x000073ec23fff6c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[error]	2025-06-13 20:53:23.725752[Thread 0x000073ec223f86c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[warning]	2025-06-13 20:53:25.075727[Thread 0x000073ecfd5dccc0]:08:53:25 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 20:53:25.082005[Thread 0x000073ecfd5dccc0]:08:53:25 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 20:53:25.082960[Thread 0x000073ecfd5dccc0]:08:53:25 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 20:53:25.126856[Thread 0x000073ecfd5dccc0]:08:53:25 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-13 20:53:28.539344[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-13 20:53:28.581191[Thread 0x000073ecfd5dccc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-13 20:53:31.157239[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:53:31.392805[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:55:39.331971[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:55:39.741890[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:55:40.163159[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:55:40.644391[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:55:41.131994[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 21:29:32.566768[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:29:33.962051[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:29:37.199245[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:29:37.952936[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:30:34.052442[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:30:36.968980[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:30:53.368956[Thread 0x000073ecfd5dccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-13 21:31:43.349107[Thread 0x000073ecfd5dccc0]:calc_exclude_triangles:Unable to create exclude triangles

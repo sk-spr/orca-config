@@ -1,0 +1,14 @@
+[error]	2025-06-13 19:58:22.372063[Thread 0x0000754f57ae3cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 19:58:22.378372[Thread 0x0000754f57ae3cc0]:Unable to open the file/home/skye/Downloads/Snake_250_20241218.stl
+[error]	2025-06-13 19:58:22.378574[Thread 0x0000754e7b7fe6c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[error]	2025-06-13 19:58:22.378588[Thread 0x0000754e78ff46c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-13 19:58:22.378657[Thread 0x0000754e7b3fd6c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[warning]	2025-06-13 19:58:22.679211[Thread 0x0000754f57ae3cc0]:07:58:22 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 19:58:23.067487[Thread 0x0000754f57ae3cc0]:07:58:23 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 19:58:23.105323[Thread 0x0000754f57ae3cc0]:07:58:23 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-13 19:58:23.106488[Thread 0x0000754f57ae3cc0]:07:58:23 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-13 19:58:26.296711[Thread 0x0000754f57ae3cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-13 19:58:26.330785[Thread 0x0000754f57ae3cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-13 20:11:21.737880[Thread 0x0000754f57ae3cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-13 20:13:51.615866[Thread 0x0000754e3b7fe6c0]:gcode path conflicts found between griff_oben.stl and griff_oben.stl
+[error]	2025-06-13 20:15:21.295572[Thread 0x0000754e3b7fe6c0]:gcode path conflicts found between griff_oben.stl and griff_oben.stl

@@ -1,0 +1,14 @@
+[error]	2025-06-18 21:33:02.089107[Thread 0x00007fdbd66f3cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 21:33:02.100632[Thread 0x00007fdb04bfc6c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-06-18 21:33:02.100682[Thread 0x00007fdb053fe6c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-18 21:33:02.100786[Thread 0x00007fdb02bf46c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[warning]	2025-06-18 21:33:02.652679[Thread 0x00007fdbd66f3cc0]:09:33:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 21:33:02.665677[Thread 0x00007fdbd66f3cc0]:09:33:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 21:33:02.667119[Thread 0x00007fdbd66f3cc0]:09:33:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 21:33:02.733982[Thread 0x00007fdbd66f3cc0]:09:33:02 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-18 21:33:07.177824[Thread 0x00007fdbd66f3cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-18 21:33:07.229818[Thread 0x00007fdbd66f3cc0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-06-18 21:34:40.610951[Thread 0x00007fdb033f66c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-06-18 21:34:41.340857[Thread 0x00007fdb04bfc6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-06-18 21:34:41.388993[Thread 0x00007fdb02bf46c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-06-18 21:35:25.301242[Thread 0x00007fdbd66f3cc0]:calc_exclude_triangles:Unable to create exclude triangles

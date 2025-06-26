@@ -1,0 +1,20 @@
+[error]	2025-06-16 14:26:05.364148[Thread 0x00007f77c79a9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-16 14:26:05.386780[Thread 0x00007f75f4ff76c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[error]	2025-06-16 14:26:05.387074[Thread 0x00007f77087f86c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-06-16 14:26:05.387743[Thread 0x00007f75f57f96c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-16 14:26:05.387989[Thread 0x00007f75c7fff6c0]:Unable to open the file/home/skye/Downloads/Snake_250_20241218.stl
+[warning]	2025-06-16 14:26:06.467620[Thread 0x00007f77c79a9cc0]:02:26:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:26:07.069107[Thread 0x00007f77c79a9cc0]:02:26:07 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:26:07.570306[Thread 0x00007f77c79a9cc0]:02:26:07 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:26:07.575984[Thread 0x00007f77c79a9cc0]:02:26:07 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-16 14:26:13.646815[Thread 0x00007f77c79a9cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-16 14:26:21.721440[Thread 0x00007f77c79a9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-16 14:28:34.463167[Thread 0x00007f77c79a9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-16 14:29:35.340779[Thread 0x00007f75f4ff76c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-06-16 14:29:57.044348[Thread 0x00007f77c79a9cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:29:58.540637[Thread 0x00007f77c79a9cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-16 14:32:43.477265[Thread 0x00007f759b7fe6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.0.235 port 7125: Connection refused
+[Error 7], HTTP 0, body: ``
+[error]	2025-06-16 14:57:59.947206[Thread 0x00007f77c79a9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-16 14:57:59.976428[Thread 0x00007f77c79a9cc0]:tree_sel_change_delayedcan not find page with current selection 

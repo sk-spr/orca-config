@@ -1,0 +1,25 @@
+{
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "ePLA+HS"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "ePLA+HS",
+    "nozzle_temperature": [
+        "223"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "223"
+    ],
+    "version": "2.2.0.4"
+}

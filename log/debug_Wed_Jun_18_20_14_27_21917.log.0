@@ -1,0 +1,20 @@
+[error]	2025-06-18 20:14:28.968606[Thread 0x00007fc3f5bd6cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 20:14:28.977071[Thread 0x00007fc31dbf86c0]:Unable to open the file/home/skye/Downloads/skull-with-roses-amphora.stl
+[error]	2025-06-18 20:14:28.977270[Thread 0x00007fc31e3fa6c0]:Unable to open the file/home/skye/Downloads/ox-skull.stl
+[error]	2025-06-18 20:14:28.977321[Thread 0x00007fc31dbf86c0]:Unable to open the file/home/skye/Downloads/04_earth_day_bathymetry.stl
+[warning]	2025-06-18 20:14:29.685938[Thread 0x00007fc3f5bd6cc0]:08:14:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 20:14:29.720507[Thread 0x00007fc3f5bd6cc0]:08:14:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 20:14:29.725619[Thread 0x00007fc3f5bd6cc0]:08:14:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 20:14:29.895300[Thread 0x00007fc3f5bd6cc0]:08:14:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-18 20:14:33.925281[Thread 0x00007fc3f5bd6cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-18 20:14:37.952893[Thread 0x00007fc3f5bd6cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 20:14:41.709389[Thread 0x00007fc3f5bd6cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 20:14:42.267142[Thread 0x00007fc3f5bd6cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-18 20:14:42.632447[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 20:14:48.102695[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 20:15:28.289593[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 20:15:28.304062[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 20:15:40.162096[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 20:15:40.178886[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 21:06:59.606178[Thread 0x00007fc3f5bd6cc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-18 21:07:00.947708[Thread 0x00007fc3f5bd6cc0]:calc_exclude_triangles:Unable to create exclude triangles

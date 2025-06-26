@@ -1,0 +1,43 @@
+{
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "default_filament_colour": [
+        "#F6F5F4"
+    ],
+    "filament_max_volumetric_speed": [
+        "200"
+    ],
+    "filament_settings_id": [
+        "Bambulab PETG-HF"
+    ],
+    "filament_vendor": [
+        "BAMBULAB"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "85"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "Flashforge Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Bambulab PETG-HF",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "nozzle_temperature_range_high": [
+        "265"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.2.0.4"
+}
