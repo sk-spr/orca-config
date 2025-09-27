@@ -16,9 +16,12 @@
     "retract_lift_below": [
         "220"
     ],
+    "travel_slope": [
+        "45"
+    ],
     "version": "2.2.0.4",
     "z_hop": [
-        "0.55"
+        "0.6"
     ],
     "z_hop_types": [
         "Slope Lift"

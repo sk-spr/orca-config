@@ -1,5 +1,5 @@
 {
-    "bottom_shell_layers": "2",
+    "bottom_shell_layers": "5",
     "bottom_surface_pattern": "archimedeanchords",
     "brim_type": "brim_ears",
     "enable_support": "1",
@@ -8,11 +8,11 @@
     "gap_infill_speed": "80",
     "gcode_label_objects": "1",
     "inherits": "0.12mm Fine @Flashforge AD5M 0.4 Nozzle",
-    "initial_layer_print_height": "0.2",
+    "initial_layer_print_height": "0.18",
     "inner_wall_speed": "120",
     "internal_solid_infill_speed": "120",
     "is_custom_defined": "0",
-    "layer_height": "0.2",
+    "layer_height": "0.16",
     "line_width": "0.4",
     "name": "damn_fine",
     "outer_wall_line_width": "0.4",
@@ -29,13 +29,13 @@
     "support_interface_top_layers": "2",
     "support_on_build_plate_only": "1",
     "support_speed": "80",
-    "support_style": "organic",
+    "support_style": "tree_strong",
     "support_type": "tree(auto)",
-    "top_shell_layers": "2",
     "top_shell_thickness": "0",
     "top_surface_pattern": "concentric",
     "top_surface_speed": "80",
     "travel_speed": "400",
     "version": "2.2.0.4",
-    "wall_generator": "arachne"
+    "wall_generator": "arachne",
+    "wall_loops": "4"
 }
